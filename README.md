@@ -23,10 +23,13 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/TechByAnshuu/TechByAnshuu/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/TechByAnshuu/TechByAnshuu/output/snake-dark.svg">
+  <img alt="GitHub Contribution Snake"
+       src="https://raw.githubusercontent.com/TechByAnshuu/TechByAnshuu/output/snake-light.svg"
+       width="100%">
+</picture>
 
-###
-
-<img align="right" height="200" src="https://tenor.com/sBnH.gif"  />
 
 ###
