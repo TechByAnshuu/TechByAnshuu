@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hey! I’m Ansh Mishra<br><br>A passionate full-stack developer who loves building real-world applications with clean UI, strong backend logic, and cloud-first architecture. I enjoy learning new technologies, solving problems, and turning ideas into working products that are scalable, efficient, and easy to maintain.
+# Hey! I’m Ansh Mishra
+<br><br>A passionate full-stack developer who loves building real-world applications with clean UI, strong backend logic, and cloud-first architecture. I enjoy learning new technologies, solving problems, and turning ideas into working products that are scalable, efficient, and easy to maintain.
 
 
 ## 🌐 Socials:
