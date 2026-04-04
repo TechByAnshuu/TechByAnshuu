@@ -2,10 +2,10 @@
 
 A passionate full-stack developer who loves building real-world applications with clean UI, strong backend logic, and cloud-first architecture. I enjoy learning new technologies, solving problems, and turning ideas into working products that are scalable, efficient, and easy to maintain.
 
-## 🌐 Socials:
+## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kX4ZPQg9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/an.sh4639) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-mishra-dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anshmishra1414) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshmishra14.14@gmail.com)
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
@@ -41,22 +41,39 @@ A passionate full-stack developer who loves building real-world applications wit
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechByAnshuu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechByAnshuu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180em"/>
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=TechByAnshuu&theme=tokyonight&hide_border=false)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TechByAnshuu&theme=tokyo-night&hide_border=false&custom_title=Contribution%20Activity)
+
 </div>
 
+## Most Used Languages
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=TechByAnshuu&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+  
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TechByAnshuu&theme=tokyonight)
+![Top Langs Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TechByAnshuu&theme=tokyonight)
+
 </div>
 
-## 📈 Contribution Activity
+## GitHub Profile Stats
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechByAnshuu&theme=tokyo-night&hide_border=false&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" width="95%"/>
+  
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TechByAnshuu&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TechByAnshuu&theme=tokyonight&utcOffset=5.5)
+
 </div>
 
-### 🐍 Contribution Snake
+## Profile Summary
+<div align="center">
+  
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TechByAnshuu&theme=tokyonight)
+
+</div>
+
+### Contribution Snake
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TechByAnshuu/TechByAnshuu/output/snake-dark.svg">
@@ -71,6 +88,6 @@ A passionate full-stack developer who loves building real-world applications wit
   
 [![Profile Views](https://visitcount.itsvg.in/api?id=TechByAnshuu&icon=8&color=6)](https://visitcount.itsvg.in)
 
-### ✨ *"Talk is cheap. Show me the code."* – Linus Torvalds
+### *"Code is poetry written in logic."*
 
 </div>
