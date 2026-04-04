@@ -3,7 +3,11 @@
 A passionate full-stack developer who loves building real-world applications with clean UI, strong backend logic, and cloud-first architecture. I enjoy learning new technologies, solving problems, and turning ideas into working products that are scalable, efficient, and easy to maintain.
 
 ## Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kX4ZPQg9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/an.sh4639) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-mishra-dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anshmishra1414) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshmishra14.14@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kX4ZPQg9) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/an.sh4639) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-mishra-dev) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anshmishra1414) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshmishra14.14@gmail.com)
 
 # Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
@@ -46,30 +50,7 @@ A passionate full-stack developer who loves building real-world applications wit
   
 ![GitHub Streak](https://streak-stats.demolab.com/?user=TechByAnshuu&theme=tokyonight&hide_border=false)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TechByAnshuu&theme=tokyo-night&hide_border=false&custom_title=Contribution%20Activity)
-
-</div>
-
-## Most Used Languages
-<div align="center">
-  
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TechByAnshuu&theme=tokyonight)
-![Top Langs Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TechByAnshuu&theme=tokyonight)
-
-</div>
-
-## GitHub Profile Stats
-<div align="center">
-  
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TechByAnshuu&theme=tokyonight)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TechByAnshuu&theme=tokyonight&utcOffset=5.5)
-
-</div>
-
-## Profile Summary
-<div align="center">
-  
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TechByAnshuu&theme=tokyonight)
 
 </div>
 
