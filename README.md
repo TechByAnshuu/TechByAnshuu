@@ -1,9 +1,9 @@
-# Hey! I’m Ansh Mishra
-<br><br>A passionate full-stack developer who loves building real-world applications with clean UI, strong backend logic, and cloud-first architecture. I enjoy learning new technologies, solving problems, and turning ideas into working products that are scalable, efficient, and easy to maintain.
+# Hey! I'm Ansh Mishra
 
+A passionate full-stack developer who loves building real-world applications with clean UI, strong backend logic, and cloud-first architecture. I enjoy learning new technologies, solving problems, and turning ideas into working products that are scalable, efficient, and easy to maintain.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/kX4ZPQg9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/an.sh4639/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ansh-mishra-dev/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Anshmishra1414) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshmishra14.14@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kX4ZPQg9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/an.sh4639) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-mishra-dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anshmishra1414) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshmishra14.14@gmail.com)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
@@ -40,29 +40,37 @@
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TechByAnshuu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TechByAnshuu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TechByAnshuu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TechByAnshuu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechByAnshuu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180em"/>
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TechByAnshuu&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=TechByAnshuu&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TechByAnshuu&limit=5&theme=radical&combine_all_yearly_contributions=true)
+## 📈 Contribution Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechByAnshuu&theme=tokyo-night&hide_border=false&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" width="95%"/>
+</div>
+
+### 🐍 Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TechByAnshuu/TechByAnshuu/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TechByAnshuu/TechByAnshuu/output/snake-light.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/TechByAnshuu/TechByAnshuu/output/snake-dark.svg" width="100%">
+  </picture>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TechByAnshuu&icon=8&color=0)](https://visitcount.itsvg.in)
 
-###
+<div align="center">
+  
+[![Profile Views](https://visitcount.itsvg.in/api?id=TechByAnshuu&icon=8&color=6)](https://visitcount.itsvg.in)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/TechByAnshuu/TechByAnshuu/output/snake-dark.svg">
-  <img alt="GitHub Contribution Snake"
-       src="https://raw.githubusercontent.com/TechByAnshuu/TechByAnshuu/output/snake-light.svg"
-       width="100%">
-</picture>
+### ✨ *"Talk is cheap. Show me the code."* – Linus Torvalds
 
-
-###
+</div>
