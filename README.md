@@ -66,8 +66,6 @@ A passionate full-stack developer who loves building real-world applications wit
 ---
 
 <div align="center">
-  
-[![Profile Views](https://visitcount.itsvg.in/api?id=TechByAnshuu&icon=8&color=6)](https://visitcount.itsvg.in)
 
 ### *"Code is poetry written in logic."*
 
